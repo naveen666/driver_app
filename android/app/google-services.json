@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "454334718224",
+    "firebase_url": "https://arriveler-3a915-default-rtdb.firebaseio.com",
+    "project_id": "arriveler-3a915",
+    "storage_bucket": "arriveler-3a915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454334718224:android:7de97e80753b8db2dcc595",
+        "android_client_info": {
+          "package_name": "com.team.arrivlerdriverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454334718224-1ksh7i90cq96sabavfj5imqepeuddaej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgLKuB-CO7CUAeCpdFJs6MTg7LWwA5v4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454334718224-1ksh7i90cq96sabavfj5imqepeuddaej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454334718224:android:cf437cbd319e4ae9dcc595",
+        "android_client_info": {
+          "package_name": "com.team.arrivlerriderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454334718224-1ksh7i90cq96sabavfj5imqepeuddaej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgLKuB-CO7CUAeCpdFJs6MTg7LWwA5v4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454334718224-1ksh7i90cq96sabavfj5imqepeuddaej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
